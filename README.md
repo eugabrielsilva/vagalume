@@ -27,14 +27,10 @@ Caso alguma música seja encontrada, um objeto JSON é retornado com a resposta.
 
 ```json
 {
-  name: "Just The Way You Are",
-  artist: "Bruno Mars",
-  url: "https://www.vagalume.com.br/bruno-mars/just-the-way-you-are.html",
-  lyrics: "Oh her eyes, her eyes
-           Make the stars look like they're not shining
-           Her hair, her hair
-           Falls perfectly without her trying
-           She's so beautiful (...)"
+  "name:": "Just The Way You Are",
+  "artist": "Bruno Mars",
+  "url": "https://www.vagalume.com.br/bruno-mars/just-the-way-you-are.html",
+  "lyrics": "Oh her eyes, her eyes\nMake the stars look like they're not shining\nHer hair, her hair\nFalls perfectly without her trying\nShe's so beautiful (...)"
 }
 ```
 
